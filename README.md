@@ -1,1 +1,1 @@
-added intex .html
+added intex.html
